@@ -1,5 +1,5 @@
 python-telegram-bot>=21.0
 ptbcontrib @ git+https://github.com/python-telegram-bot/ptbcontrib.git@main
-aiohttp
-aiofiles
-requests
+aiohttp>=3.9
+aiofiles>=23.0
+requests>=2.31
